@@ -1,0 +1,15 @@
+{
+  "name": "cypressauditerr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edgewords",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "cypress": "^6.3.0",
+    "cypress-audit": "^0.3.0"
+  }
+}
